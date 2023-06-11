@@ -557,7 +557,7 @@ d.set_value(25, '010e0d0000000000000003e803e8')
 |15|Countdown 7|integer|0-86400|s|
 |17|Add Electricity|integer|0-50000|kwh|
 |18|Current|integer|0-30000|mA|
-|19|Power|integer|0-50000|W|
+|19|Power|integer|0-50000|10 x W|
 |20|Voltage|integer|0-5000|V|
 |21|Test Bit|integer|0-5|n/a|
 |22|Voltage coeff.|integer|0-1000000||
